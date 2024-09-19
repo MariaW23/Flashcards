@@ -1,2 +1,2 @@
-# Keeper_app
-Created with CodeSandbox
+# Chinese learning app
+title - chinese word; content - meaning
