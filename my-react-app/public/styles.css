@@ -4,18 +4,23 @@
   box-sizing: border-box;
 }
 html {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Copperplate", sans-serif;
   
 }
 body {
   background: #eee;
   padding: 0 16px;
-  /* background-color: #9dc799; */
-  /* background-image: url("https://www.transparenttextures.com/patterns/wet-snow.png"); */
+  background-color: #303805;
+  background-image: url("https://www.transparenttextures.com/patterns/blu-stripes.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  /* background-color: #afccb5;
+  background-image: url("https://www.transparenttextures.com/patterns/cartographer.png"); */
+  /* background-color: #9dc799;
+  background-image: url("https://www.transparenttextures.com/patterns/wet-snow.png"); */
 }
 
 header {
-  background-color: #337451;
+  background-color: #1f2303;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -23,7 +28,7 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
+  font-family: "Copperplate", cursive;
   font-weight: 200;
 }
 
