@@ -1,2 +1,1 @@
-# Chinese learning app
-title - chinese word; content - meaning
+# Flashcards web app
